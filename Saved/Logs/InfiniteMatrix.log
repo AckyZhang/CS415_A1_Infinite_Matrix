@@ -1481,3 +1481,10 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.09.13-00.19.36:713][728]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2024.09.13-00.20.51:656][183]BlueprintLog: New page: 编译BP_TunnelSpawner
 [2024.09.13-00.20.51:691][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.09.13-00.22.22:005][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.09.13-00.22.22:009][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.020
+[2024.09.13-00.22.22:011][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2024.09.13-00.22.22:011][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2024.09.13-00.22.22:033][965]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto1
+[2024.09.13-00.22.22:035][965]LogSavePackage: Moving '../../../../../../uiuc courses/CS415/project1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_TunnelSpawner_Auto1E4D4CF5F4A1A78B8800638B564DA7BD4.tmp' to '../../../../../../uiuc courses/CS415/project1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto1.uasset'
+[2024.09.13-00.22.22:038][965]LogFileHelpers: Auto-saving content packages took 0.029
